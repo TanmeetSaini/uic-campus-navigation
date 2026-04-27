@@ -1,0 +1,17 @@
+# Build output
+/build/
+/osm_main
+/osm_server
+/osm_tests
+
+# macOS debug symbols
+/*.dSYM/
+
+# macOS files
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Local environment files
+.env
