@@ -47,3 +47,6 @@ The app can read settings from .env, including SERVER_HOST, SERVER_PORT, OSM_DAT
 The main dataset is data/uic-fa25.osm.json.
 The web app uses a map interface to display locations and routes.
 The current test suite passes.
+
+## Video Demo
+https://drive.google.com/file/d/1FyizIpGMIbHiXkgjhlAFwMezMKkB1s5k/view?usp=sharing
