@@ -19,11 +19,11 @@ Build and Run
 
 Run the console version:
 
-make run_osm
+`make run_osm`
 
 Run the web server:
 
-make run_server
+`make run_server`
 
 Then open http://localhost:1251
  in your browser.
@@ -32,13 +32,13 @@ Tests
 
 Run all tests:
 
-make test_all
+`make test_all`
 
 Run specific groups:
 
-make test_graph
+`make test_graph
 make test_build_graph
-make test_dijkstra
+make test_dijkstra`
 Notes
 The app can read settings from .env, including SERVER_HOST, SERVER_PORT, OSM_DATA_FILE, MAPBOX_TOKEN, and MAPBOX_STYLE_URL.
 The main dataset is data/uic-fa25.osm.json.
